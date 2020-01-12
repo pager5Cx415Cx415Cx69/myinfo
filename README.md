@@ -52,7 +52,7 @@ p@GER
 }
 .btn i{
   line-height: 90px;
-  font-size: 6px;
+  font-size: 26px;
   transition: 0.2s linear;
 }
 .btn:hover i{
@@ -67,7 +67,7 @@ p@GER
   background: #3498db;
   transform: rotate(45deg);
   left: -110%;
-  top: 90%;
+  top: 290%;
 }
 .btn:hover::before{
   animation: aaa 0.7s 1;
