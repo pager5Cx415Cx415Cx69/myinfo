@@ -67,7 +67,7 @@ p@GER
   background: #3498db;
   transform: rotate(45deg);
   left: -110%;
-  top: 90%;
+  top: 390%;
 }
 .btn:hover::before{
   animation: aaa 0.7s 1;
@@ -77,7 +77,7 @@ p@GER
 @keyframes aaa {
   0%{
     left: -110%;
-    top: 90%;
+    top: 390%;
   }50%{
     left: 10%;
     top: -30%;
