@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/pager5Cx415Cx415Cx69/myinfo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pager5Cx415Cx415Cx69/myinfo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# My_Info
+p@GER
+<a href="https://pager5cx415cx415cx69.github.io/My_Info/achievement/">My Achievements</a>
+<p><h3><b><i>Hall-of-fame and appreciation from different companies.</i></b></h3></p>
+<p><h4><u>Hall of Fame Lists</u></h4></p>
+<p>
+	<li> <a href="https://portal.msrc.microsoft.com/en-us/security-guidance/researcher-acknowledgments-online-services?rtc=1">Microsoft December 2019</a></li>
+	<li> <a href="">Dell January 2020(Bugcrowd)</a></li>
+	<li> <a href="https://cert.europa.eu/cert/newsletter/en/latest_HallOfFame_.html">CertEU January 2020</a></li>
+	<li> <a href="https://unite.un.org/content/hall-fame">Unite.un January 2020</a></li>
+	<li> <a href="https://www.nokia.com/responsible-disclosure/">Nokia December 2019</a></li>
+	<li> <a href="https://www.linkedin.com/posts/avishek-nayal-093476189_bugbounty-pentesting-ethicalhacking-activity-6620910805972025344-C0pO">Accenture</a></li>
+	<li> <a href="https://www.nciipc.gov.in/documents/NCIIPC_Newsletter_Oct19.pdf">NCIIPC_Newsletter_October_2019</a></li>
+	<li> <a href="https://orged.de/bug-bountry/hall-of-fame">Orged November 2019</a></li>
+	<li> <a href="https://community.sonarsource.com/t/responsible-vulnerability-disclosure/9317">SonarSource November 2019</a></li>
+	<li> <a href="https://www.uu.nl/en/node/1599/hall-of-fame-responsible-disclosure">Utrecht University November 2019</a></li>
+	<li> <a href="https://www.basf.com/global/en/legal/responsible-disclosure-statement.html">Basf December 2019</a></li>
+	<li> <a href="https://www.unwomen.org/en/about-the-website/information-security/reporting-a-cyber-security-issue#Hall-of-fame">Unwomen December 2019</a></li>
+	<li> <a href="https://www.linkedin.com/posts/avishek-nayal-093476189_appreciation-rivm-activity-6610186440536092672-2q1h/">Rivm December 2019</a></li>
+	<li> <a href="https://new.siemens.com/global/en/products/services/cert/hall-of-thanks.html">Siemens December 2019</a></li>
+</p>				
