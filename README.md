@@ -20,7 +20,7 @@ p@GER
 	<li> <a href="https://new.siemens.com/global/en/products/services/cert/hall-of-thanks.html">Siemens December 2019</a></li>
 </p>				
 
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
