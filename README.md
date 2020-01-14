@@ -1,5 +1,5 @@
 # My_Info
-p@GER
+p@GER.
 <a href="https://pager5cx415cx415cx69.github.io/My_Info/achievement/">My Achievements</a>
 <p><h3><b><i>Hall-of-fame and appreciation from different companies.</i></b></h3></p>
 <p><h4><u>Hall of Fame Lists</u></h4></p>
@@ -67,11 +67,11 @@ p@GER
   background: #3498db;
   transform: rotate(45deg);
   left: -110%;
-  top: 290%;
+  top: 90%;
 }
 .btn:hover::before{
   animation: aaa 0.7s 1;
-  top: -10%;
+  top: -110%;
   left: -10%;
 }
 @keyframes aaa {
