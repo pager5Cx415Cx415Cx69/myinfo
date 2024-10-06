@@ -2,7 +2,7 @@
 p@GER.
 <a href="https://pager5cx415cx415cx69.github.io/My_Info/achievement/">My Achievements</a>
 <p><h3><b><i>Hall-of-fame and appreciation from different companies..</i></b></h3></p>
-<p><h4><u>Hall of Fame Lists</u></h4></p>
+<p><h4><u>Hall of Fame Listss/u></h4></p>
 <p>
 	<li> <a href="https://portal.msrc.microsoft.com/en-us/security-guidance/researcher-acknowledgments-online-services?rtc=1">Microsoft December 2019</a></li>
 	<li> <a href="https://www.linkedin.com/posts/avishek-nayal-093476189_bugbounty-halloffame-pentesting-activity-6622775811353210880-FFoH">Dell January 2020(Bugcrowd)</a></li>
